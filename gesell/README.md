@@ -19,6 +19,12 @@ This version 0.6.0 work with a defined melting process :
 
 If your current balance is smaller than the burnt rule, the transfer will never succeed. Your tokens are blocked until you buy more.
 
+## Deploys
+
+The contract (v0.6.0) has been deployed in these networks :
+
+* [Goerli](https://goerli.etherscan.io/address/0xc34f8a81ae597d97855b50dfe4f2fe90ececfa8d)
+
 ## Future
 
 Actually the number of token to burn is fixed, whatever can be your amount to transfer.  
