@@ -47,7 +47,6 @@ contract Gesell is ERC20 {
     /**
     * @dev Default constructor
     * Initialize all the tokens to the creator
-    * DAI on kovan 0x4F96Fe3b7A6Cf9725f59d353F723c1bDb64CA6Aa
     */
     constructor(address _daiAddress) {
         _totalSupply = 10000000 ether;
